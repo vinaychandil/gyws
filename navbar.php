@@ -3,7 +3,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6 col-xs-4">
-                        <div class="top-number"><p><i class="fa fa-phone-square"></i>  +0123 456 70 90</p></div>
+                        <div class="top-number"><p><i class="fa fa-phone-square"></i> +910 983 254 8724</p></div>
                     </div>
                     <div class="col-sm-6 col-xs-8">
                        <div class="social">
@@ -11,8 +11,8 @@
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa fa-linkedin"></i></a></li> 
-                                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                <li><a href="#"><i class="fa fa-google+"></i></a></li>
+                                <li><a href="#"><i class="fa fa-quora"></i></a></li>
                             </ul>
                             <div class="search">
                                 <form role="form">
@@ -41,11 +41,49 @@
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
                         <li><a href="index.php">Home</a></li>
-                        <li><a href="about-us.php">About Us</a></li>
-                        <li><a href="services.php">Services</a></li>
-                        <li><a href="portfolio.php">Portfolio</a></li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
+                            <a href="about-us.php" class="dropdown-toggle" data-toggle="dropdown">About Us<i class="fa fa-angle-down"></i></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Who we Are?</a></li>
+                                <li><a href="#">Vision</a></li>
+                                <li><a href="#">Mission</a></li>
+                                <li><a href="#">Objectives</a></li>
+                                <li><a href="#">Organisational Profile</a></li>
+                                <li><a href="#">History</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="services.php" class="dropdown-toggle" data-toggle="dropdown">Initiatives<i class="fa fa-angle-down"></i></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Jagriti Vidya Mandir</a></li>
+                                <li><a href="#">KGP Blood Connect</a></li>
+                                <li><a href="#">Social Cell</a></li>
+                                <li><a href="#">Pedals For Progress</a></li>
+                                <li><a href="#">e-Samadhan</a></li>
+                                <li><a hrf="#">Prayas</a></li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">UDYAT<i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="#">Gujrati Coaching</a></li>
+                                        <li><a href="#">Helping Hands</a></li>
+                                        <li><a href="#">Teacher's traning</a></li>
+                                    </ul>
+                                </li>
+                             </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="portfolio.php" class="dropdown-toggle" data-toggle="dropdown">Members<i class="fa fa-angle-down"></i></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Advisory Committe</a></li>
+                                <li><a href="#">Governing Body<br> Members</a></li>
+                                <li><a href="#">Coordinators</a></li>
+                                <li><a href="#">Post-gratuate/<br>Research Scholers</a></li>
+                                <li><a href="#">Heads</a></li>
+                                <li><a href="#">Senior Executive<br> Members</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Support Us <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
                                 <li><a href="blog-item.php">Blog Single</a></li>
                                 <li><a href="pricing.php">Pricing</a></li>
@@ -53,7 +91,15 @@
                                 <li><a href="shortcodes.php">Shortcodes</a></li>
                             </ul>
                         </li>
-                        <li><a href="blog.php">Blog</a></li> 
+                        <li class="dropdown">
+                            <a href="blog.php" class="dropdown-toggle" data-toggle="dropdown">Donate <i class="fa fa-angle-down"></i></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">General Donations</a></li>
+                                <li><a href="#">Educate A Child</a></li>
+                                <li><a href="#">SI Form</a></li>
+                                <li><a href="#">Suggestions</a></li>
+                            </ul>
+                        </li> 
                         <li><a href="contact-us.php">Contact</a></li>                        
                     </ul>
                 </div>
