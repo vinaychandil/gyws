@@ -31,7 +31,7 @@
     <section id="contact-info">
         <div class="center">                
             <h2>How to Reach Us?</h2>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+            <p class="lead">GOPALI YOUTH WELFARE SOCIETY</p>
         </div>
         <div class="gmap-area">
             <div class="container">
@@ -46,38 +46,40 @@
                         <ul class="row">
                             <li class="col-sm-6">
                                 <address>
-                                    <h5>Head Office</h5>
-                                    <p>1537 Flint Street <br>
-                                    Tumon, MP 96911</p>
-                                    <p>Phone:670-898-2847 <br>
-                                    Email Address:info@domain.com</p>
+                                    <h5>Mr. Mrinal Kanti Bhanja</h5>
+                                    <p>1537 Founder & President,Gopali Youth Welfare Society <br>
+                                    GYWS(Main Office),<br>
+                                    Gopali (No-Shooting Area),<br>
+                                    P.O. – Salua, Dist. – Paschim Medinipur,<br>
+                                    West Bengal, Pin-721145</p>
+                                    <p>Phone:(03222) 296537, (03222) 651019 <br>
+                                    Email Address:gywsociety@gmail.com</p>
+                                    <p>Office time: 8:30am to 1:00pm & 4:30pm to 9pm.</p>
                                 </address>
 
                                 <address>
-                                    <h5>Zonal Office</h5>
-                                    <p>1537 Flint Street <br>
-                                    Tumon, MP 96911</p>                                
-                                    <p>Phone:670-898-2847 <br>
-                                    Email Address:info@domain.com</p>
+                                    <h5>Mr. Mukesh Barnwal</h5>
+                                    <p>Vice-President,Gopali Youth Welfare Society <br></p>                                
+                                    <p>Phone:0983-254-8724 <br>
+                                    Email Address:mukeshbarnwal.iit@gmail.com</p>
                                 </address>
                             </li>
 
 
                             <li class="col-sm-6">
                                 <address>
-                                    <h5>Zone#2 Office</h5>
-                                    <p>1537 Flint Street <br>
-                                    Tumon, MP 96911</p>
-                                    <p>Phone:670-898-2847 <br>
-                                    Email Address:info@domain.com</p>
+                                    <h5>Mr. Dakeshwar Netam</h5>
+                                    <p>General Secretary,Gopali Youth Welfare Society<br></p>
+                                    <p>Phone:0980-0149-483 <br>
+                                    Email Address:dakeshwar.netam007@gmail.com</p>
                                 </address>
 
                                 <address>
-                                    <h5>Zone#3 Office</h5>
-                                    <p>1537 Flint Street <br>
-                                    Tumon, MP 96911</p>
-                                    <p>Phone:670-898-2847 <br>
-                                    Email Address:info@domain.com</p>
+                                    <h5>Mr. Deepak Kumar</h5>
+                                    <p>Secretary,School Review Committee<br>
+                                    Jagriti Vidhya Mandir</p>
+                                    <p>Phone:983-274-7041 <br>
+                                    Email Address:deepak.aryan12@gmail.com</p>
                                 </address>
                             </li>
                         </ul>
