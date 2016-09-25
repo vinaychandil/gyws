@@ -109,8 +109,8 @@
     <section id="feature" >
         <div class="container">
            <div class="center wow fadeInDown">
-                <h2>Features</h2>
-                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <h2>Initiatives</h2>
+                <p class="lead"></p>
             </div>
 
             <div class="row">
@@ -118,48 +118,72 @@
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
                             <i class="fa fa-bullhorn"></i>
-                            <h2>Fresh and Clean</h2>
-                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                            <h2>Jagriti Vidhya Mandir</h2>
+                            <h3>Not just making children literate but also educates.</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
                             <i class="fa fa-comments"></i>
-                            <h2>Retina ready</h2>
-                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                            <h2>KGP BloodConnect</h2>
+                            <h3>Initiative created to help those in need of blood as efficiently as possible.</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
                             <i class="fa fa-cloud-download"></i>
-                            <h2>Easy to customize</h2>
-                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                            <h2>Social Cell</h2>
+                            <h3>Providing Oppertunities to Work under different NGO's as Social Internship.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
                             <i class="fa fa-leaf"></i>
-                            <h2>Adipisicing elit</h2>
-                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                            <h2>Pedal For Progress</h2>
+                            <h3>One should try to help out others.</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
                             <i class="fa fa-cogs"></i>
-                            <h2>Sed do eiusmod</h2>
-                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                            <h2>e-Samadhan</h2>
+                            <h3>Helping people find their way out of long government schemes.</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
                     <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
                             <i class="fa fa-heart"></i>
-                            <h2>Labore et dolore</h2>
-                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+                            <h2>Prayas</h2>
+                            <h3>An Innovative Program Associating Youth and GYWS Society.</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <i class="fa fa-heart"></i>
+                            <h2>Computer Coaching</h2>
+                            <h3>An Initiative towards technology.</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <i class="fa fa-heart"></i>
+                            <h2>Helping Hands</h2>
+                            <h3>Program Associating Youth and Society.</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <i class="fa fa-heart"></i>
+                            <h2>Teachers Training</h2>
+                            <h3>.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                 </div><!--/.services-->
@@ -170,19 +194,18 @@
     <section id="recent-works">
         <div class="container">
             <div class="center wow fadeInDown">
-                <h2>Recent Works</h2>
-                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <h2>Recent Events</h2>
+                <p class="lead"></p>
             </div>
-
             <div class="row">
                 <div class="col-xs-12 col-sm-4 col-md-3">
                     <div class="recent-work-wrap">
                         <img class="img-responsive" src="images/portfolio/recent/item1.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">Business theme</a> </h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                                <a class="preview" href="images/portfolio/full/item1.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                <h3><a href="#">Teacher's Day 2016</a> </h3>
+                                <p>Every Year Teacher's Day is Celebrated with great joy in Jagriti Vidhya Mandir.</p>
+                                <a class="preview" href="https://www.facebook.com/gyws.iitkgp/photos/?tab=album&album_id=1281097221941831" rel="prettyPhoto"><i class="fa fa-eye"></i> More.</a>
                             </div> 
                         </div>
                     </div>
@@ -193,9 +216,9 @@
                         <img class="img-responsive" src="images/portfolio/recent/item2.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">Business theme</a></h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                                <a class="preview" href="images/portfolio/full/item2.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                <h3><a href="#">Laptop Session 2016</a></h3>
+                                <p>An important step towards upcoming technology.</p>
+                                <a class="preview" href="https://www.facebook.com/gyws.iitkgp/photos/?tab=album&album_id=1279239402127613" rel="prettyPhoto"><i class="fa fa-eye"></i> More.</a>
                             </div> 
                         </div>
                     </div>
@@ -206,9 +229,9 @@
                         <img class="img-responsive" src="images/portfolio/recent/item3.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">Business theme </a></h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                                <a class="preview" href="images/portfolio/full/item3.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                <h3><a href="#">Balkalakkar 2016 </a></h3>
+                                <p>An event being conducted by AISEC in JVM.</p>
+                                <a class="preview" href="https://www.facebook.com/gyws.iitkgp/photos/?tab=album&album_id=1273112619406958" rel="prettyPhoto"><i class="fa fa-eye"></i> More.</a>
                             </div> 
                         </div>
                     </div>
@@ -219,9 +242,9 @@
                         <img class="img-responsive" src="images/portfolio/recent/item4.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">Business theme </a></h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                                <a class="preview" href="images/portfolio/full/item4.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                <h3><a href="#">Tree Plantation Drive </a></h3>
+                                <p>An approach toward awareness of nature's purity.</p>
+                                <a class="preview" href="https://www.facebook.com/gyws.iitkgp/photos/?tab=album&album_id=1265767696808117" rel="prettyPhoto"><i class="fa fa-eye"></i> More.</a>
                             </div> 
                         </div>
                     </div>
@@ -232,9 +255,9 @@
                         <img class="img-responsive" src="images/portfolio/recent/item5.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">Business theme</a></h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                                <a class="preview" href="images/portfolio/full/item5.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                <h3><a href="#">Independence Day 2016</a></h3>
+                                <p>Students of Jagrity Vidhya Mandir perform diffent acts depicting patriotism.</p>
+                                <a class="preview" href="https://www.facebook.com/gyws.iitkgp/photos/?tab=album&album_id=1261313467253540" rel="prettyPhoto"><i class="fa fa-eye"></i> More.</a>
                             </div> 
                         </div>
                     </div>
@@ -245,9 +268,9 @@
                         <img class="img-responsive" src="images/portfolio/recent/item6.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">Business theme </a></h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                                <a class="preview" href="images/portfolio/full/item6.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                <h3><a href="#">Aashayein 2016</a></h3>
+                                <p>The Annual Day Performance by the Students in IIT campus.</p>
+                                <a class="preview" href="https://www.facebook.com/gyws.iitkgp/photos/?tab=album&album_id=1162757060442515" rel="prettyPhoto"><i class="fa fa-eye"></i> More.</a>
                             </div> 
                         </div>
                     </div>
@@ -258,9 +281,9 @@
                         <img class="img-responsive" src="images/portfolio/recent/item7.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">Business theme </a></h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                                <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                <h3><a href="#">Fresher's Introductory Seminar </a></h3>
+                                <p>Every Year we Invite the IIT Fresher's to be a part of GYWS.</p>
+                                <a class="preview" href="https://www.facebook.com/gyws.iitkgp/photos/?tab=album&album_id=1246819742036246" rel="prettyPhoto"><i class="fa fa-eye"></i> More.</a>
                             </div> 
                         </div>
                     </div>
@@ -271,9 +294,9 @@
                         <img class="img-responsive" src="images/portfolio/recent/item8.png" alt="">
                         <div class="overlay">
                             <div class="recent-work-inner">
-                                <h3><a href="#">Business theme </a></h3>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-                                <a class="preview" href="images/portfolio/full/item8.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                <h3><a href="#">Annual Survey 2016 </a></h3>
+                                <p>Every year a village survey is done.</p>
+                                <a class="preview" href="https://www.facebook.com/gyws.iitkgp/photos/?tab=album&album_id=1110006005717621" rel="prettyPhoto"><i class="fa fa-eye"></i> More.</a>
                             </div> 
                         </div>
                     </div>
@@ -371,10 +394,68 @@
             <div class="row">
                 <div class="col-sm-6 wow fadeInDown">
                     <div class="skill">
-                        <h2>Our Skills</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h2>Print Media Coverage</h2>
+                        <p>Media has also appreciated the work done by GOPALI YOUTH WELFARE SOCIETY.</p>
 
-                        <div class="progress-wrap">
+                                        <div class="col-xs-12 col-sm-8 wow fadeInDown">
+                   <div class="tab-wrap"> 
+                        <div class="media">
+                            <div class="parrent pull-left">
+                                <ul class="nav nav-tabs nav-stacked">
+                                    <li class=""><a href="#tab1" data-toggle="tab" class="analistic-01">GYWS DainikBhaskar Kolkata</a></li>
+                                    <li class="active"><a href="#tab2" data-toggle="tab" class="analistic-02">GYWS Hindustan Times Kolkata</a></li>
+                                    <li class=""><a href="#tab3" data-toggle="tab" class="tehnical">GYWS TOI</a></li>
+                                    <li class=""><a href="#tab4" data-toggle="tab" class="tehnical">GYWS Sanmarg</a></li>
+                                    <li class=""><a href="#tab5" data-toggle="tab" class="tehnical">GYWS Telegraph</a></li>
+                                </ul>
+                            </div>
+
+                            <div class="parrent media-body">
+                                <div class="tab-content">
+                                    <div class="tab-pane fade" id="tab1">
+                                        <div class="media">
+                                           <div class="pull-left">
+                                                <img class="img-responsive" src="media/GYWS_DainikBhaskar Kolkata_8 November 2014.jpg">
+                                            </div>
+                                            <!--<div class="media-body">
+                                                 <h2>Adipisicing elit</h2>
+                                                 <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use.</p>
+                                            </div>-->
+                                        </div>
+                                    </div>
+
+                                     <div class="tab-pane fade active in" id="tab2">
+                                        <div class="media">
+                                           <div class="pull-left">
+                                                <img class="img-responsive" src="media/GYWS_HT Kolkata_3 May 2016.jpg">
+                                            </div>
+                                           <!-- <div class="media-body">
+                                                 <h2>Adipisicing elit</h2>
+                                                 <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use.
+                                                 </p>
+                                            </div>-->
+                                        </div>
+                                     </div>
+
+                                     <div class="tab-pane fade" id="tab3">
+                                        <img class="img-responsive" src="media/GYWS_TOI Kolkata _ 7 November 2014.jpg">
+                                     </div>
+                                     
+                                     <div class="tab-pane fade" id="tab4">
+                                        <img class="img-responsive" src="media/GYWS_Sanmarg.png">
+                                     </div>
+
+                                     <div class="tab-pane fade" id="tab5">
+                                        <img class="img-responsive" src="media/GYWS_Telegraph.png">
+                                     </div>
+                                </div> <!--/.tab-content-->  
+                            </div> <!--/.media-body--> 
+                        </div> <!--/.media-->     
+                    </div><!--/.tab-wrap-->               
+                </div><!--/.col-sm-6-->
+                
+                
+                <!-- <div class="progress-wrap">
                             <h3>Graphic Design</h3>
                             <div class="progress">
                               <div class="progress-bar  color1" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 85%">
@@ -409,20 +490,20 @@
                                 <span class="bar-width">90%</span>
                               </div>
                             </div>
-                        </div>
+                        </div>-->
                     </div>
 
                 </div><!--/.col-sm-6-->
 
                 <div class="col-sm-6 wow fadeInDown">
                     <div class="accordion">
-                        <h2>Why People like us?</h2>
+                        <h2>Online Link to Other Media Coverages</h2>
                         <div class="panel-group" id="accordion1">
                           <div class="panel panel-default">
                             <div class="panel-heading active">
                               <h3 class="panel-title">
                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseOne1">
-                                  Lorem ipsum dolor sit amet
+                                  Coverage By The Viral Fever
                                   <i class="fa fa-angle-right pull-right"></i>
                                 </a>
                               </h3>
@@ -431,13 +512,7 @@
                             <div id="collapseOne1" class="panel-collapse collapse in">
                               <div class="panel-body">
                                   <div class="media accordion-inner">
-                                        <div class="pull-left">
-                                            <img class="img-responsive" src="images/accordion1.png">
-                                        </div>
-                                        <div class="media-body">
-                                             <h4>Adipisicing elit</h4>
-                                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p>
-                                        </div>
+                                        <a href=" http://tinyurl.com/gyws-tvf" target="_blank"> http://tinyurl.com/gyws-tvf</a>
                                   </div>
                               </div>
                             </div>
@@ -447,14 +522,14 @@
                             <div class="panel-heading">
                               <h3 class="panel-title">
                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseTwo1">
-                                  Lorem ipsum dolor sit amet
+                                  Coverage On The Joy Of Giving Week 2015
                                   <i class="fa fa-angle-right pull-right"></i>
                                 </a>
                               </h3>
                             </div>
                             <div id="collapseTwo1" class="panel-collapse collapse">
                               <div class="panel-body">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor.
+                                <a href=" http://tinyurl.com/joygiving-toi" target="_blank"> http://tinyurl.com/joygiving-toi</a>
                               </div>
                             </div>
                           </div>
@@ -463,14 +538,14 @@
                             <div class="panel-heading">
                               <h3 class="panel-title">
                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseThree1">
-                                  Lorem ipsum dolor sit amet
+                                  Coverage By Engineering For Change
                                   <i class="fa fa-angle-right pull-right"></i>
                                 </a>
                               </h3>
                             </div>
                             <div id="collapseThree1" class="panel-collapse collapse">
                               <div class="panel-body">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor.
+                                <a href="http://tinyurl.com/gyws-e4c" target="_blank">http://tinyurl.com/gyws-e4c</a>
                               </div>
                             </div>
                           </div>
@@ -478,15 +553,31 @@
                           <div class="panel panel-default">
                             <div class="panel-heading">
                               <h3 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseThree1">
+                                  Coverage By Just IITians Website
+                                  <i class="fa fa-angle-right pull-right"></i>
+                                </a>
+                              </h3>
+                            </div>
+                            <div id="collapseThree1" class="panel-collapse collapse">
+                              <div class="panel-body">
+                                <a href="http://tinyurl.com/gyws-tvf" target="_blank">http://tinyurl.com/gyws-tvf</a>
+                              </div>
+                            </div>
+                          </div>
+                          
+                          <div class="panel panel-default">
+                            <div class="panel-heading">
+                              <h3 class="panel-title">
                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseFour1">
-                                  Lorem ipsum dolor sit amet
+                                  Coverage By IITs Pride Of India
                                   <i class="fa fa-angle-right pull-right"></i>
                                 </a>
                               </h3>
                             </div>
                             <div id="collapseFour1" class="panel-collapse collapse">
                               <div class="panel-body">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor.
+                                <a href="http://tinyurl.com/gyws-iitspride" target="_blank">http://tinyurl.com/gyws-iitspride</a>
                               </div>
                             </div>
                           </div>
@@ -501,67 +592,14 @@
     <section id="content">
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-sm-8 wow fadeInDown">
-                   <div class="tab-wrap"> 
-                        <div class="media">
-                            <div class="parrent pull-left">
-                                <ul class="nav nav-tabs nav-stacked">
-                                    <li class=""><a href="#tab1" data-toggle="tab" class="analistic-01">Responsive Web Design</a></li>
-                                    <li class="active"><a href="#tab2" data-toggle="tab" class="analistic-02">Premium Plugin Included</a></li>
-                                    <li class=""><a href="#tab3" data-toggle="tab" class="tehnical">Predefine Layout</a></li>
-                                    <li class=""><a href="#tab4" data-toggle="tab" class="tehnical">Our Philosopy</a></li>
-                                    <li class=""><a href="#tab5" data-toggle="tab" class="tehnical">What We Do?</a></li>
-                                </ul>
-                            </div>
-
-                            <div class="parrent media-body">
-                                <div class="tab-content">
-                                    <div class="tab-pane fade" id="tab1">
-                                        <div class="media">
-                                           <div class="pull-left">
-                                                <img class="img-responsive" src="images/tab2.png">
-                                            </div>
-                                            <div class="media-body">
-                                                 <h2>Adipisicing elit</h2>
-                                                 <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                     <div class="tab-pane fade active in" id="tab2">
-                                        <div class="media">
-                                           <div class="pull-left">
-                                                <img class="img-responsive" src="images/tab1.png">
-                                            </div>
-                                            <div class="media-body">
-                                                 <h2>Adipisicing elit</h2>
-                                                 <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use.
-                                                 </p>
-                                            </div>
-                                        </div>
-                                     </div>
-
-                                     <div class="tab-pane fade" id="tab3">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>
-                                     </div>
-                                     
-                                     <div class="tab-pane fade" id="tab4">
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words</p>
-                                     </div>
-
-                                     <div class="tab-pane fade" id="tab5">
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures,</p>
-                                     </div>
-                                </div> <!--/.tab-content-->  
-                            </div> <!--/.media-body--> 
-                        </div> <!--/.media-->     
-                    </div><!--/.tab-wrap-->               
-                </div><!--/.col-sm-6-->
+                <div id="eminent">
+                <?php include'eminent_slider.php' ?>
+                </div>
 
                 <div class="col-xs-12 col-sm-4 wow fadeInDown">
                     <div class="testimonial">
-                        <h2>Testimonials</h2>
-                         <div class="media testimonial-inner">
+                        <h2>Perceptions About Us</h2>
+                         <!--<div class="media testimonial-inner">
                             <div class="pull-left">
                                 <img class="img-responsive img-circle" src="images/testimonials1.png">
                             </div>
@@ -569,9 +607,9 @@
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
                                 <span><strong>-John Doe/</strong> Director of corlate.com</span>
                             </div>
-                         </div>
+                         </div>-->
 
-                         <div class="media testimonial-inner">
+                         <!--<div class="media testimonial-inner">
                             <div class="pull-left">
                                 <img class="img-responsive img-circle" src="images/testimonials1.png">
                             </div>
@@ -579,8 +617,8 @@
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
                                 <span><strong>-John Doe/</strong> Director of corlate.com</span>
                             </div>
-                         </div>
-
+                         </div>-->
+                         <?php include 'image_slider.php'; ?>
                     </div>
                 </div>
 
@@ -591,7 +629,7 @@
     <section id="partner">
         <div class="container">
             <div class="center wow fadeInDown">
-                <h2>Our Partners</h2>
+                <h2>Our Sponsers</h2>
                 <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
             </div>    
 
@@ -607,7 +645,7 @@
         </div><!--/.container-->
     </section><!--/#partner-->
 
-    <section id="conatcat-info">
+    <!--<section id="conatcat-info">
         <div class="container">
             <div class="row">
                 <div class="col-sm-8">
@@ -623,7 +661,7 @@
                 </div>
             </div>
         </div><!--/.container-->    
-    </section><!--/#conatcat-info-->
+    <!--</section><!--/#conatcat-info-->
 
     <section id="bottom">
         <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
@@ -695,14 +733,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    &copy; 2013 <a target="_blank" href="http://shapebootstrap.net/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">ShapeBootstrap</a>. All Rights Reserved.
+                    &copy; 2016 <a target="_blank" href="http://www.gyws.org/" title="An NGO run by the students of IIT KHARAGPUR">GOPALI YOUTH WELFARE SOCIETY</a>. All Rights Reserved.
                 </div>
                 <div class="col-sm-6">
                     <ul class="pull-right">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Faq</a></li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google+"></i></a></li>
+                        <li><a href="#"><i class="fa fa-quora"></i></a></li>
                     </ul>
                 </div>
             </div>
