@@ -23,6 +23,12 @@
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+    
+    <style>
+        #eminent{
+            float:left;
+        }
+        </style>
 </head><!--/head-->
 
 <body class="homepage">
@@ -296,7 +302,7 @@
                             <div class="recent-work-inner">
                                 <h3><a href="#">Annual Survey 2016 </a></h3>
                                 <p>Every year a village survey is done.</p>
-                                <a class="preview" href="https://www.facebook.com/gyws.iitkgp/photos/?tab=album&album_id=1110006005717621" rel="prettyPhoto"><i class="fa fa-eye"></i> More.</a>
+                                <a class="preview" href="https://www.facebook.com/gyws.iitkgp/photos/?tab=album&album_id=1110006005717621" rel="prettyPhoto"><i class="fa fa-eye"></i>More.</a>
                             </div> 
                         </div>
                     </div>
@@ -592,11 +598,11 @@
     <section id="content">
         <div class="container">
             <div class="row">
-                <div id="eminent">
+                <div id="eminent"><center><span id="Perceptions" style="font-size:5vh">Perceptions About Us</span></center>
                 <?php include'eminent_slider.php' ?>
                 </div>
 
-                <div class="col-xs-12 col-sm-4 wow fadeInDown">
+                <!--<div class="col-xs-12 col-sm-4 wow fadeInDown">
                     <div class="testimonial">
                         <h2>Perceptions About Us</h2>
                          <!--<div class="media testimonial-inner">
@@ -618,9 +624,8 @@
                                 <span><strong>-John Doe/</strong> Director of corlate.com</span>
                             </div>
                          </div>-->
-                         <?php include 'image_slider.php'; ?>
-                    </div>
-                </div>
+                   <!-- </div>
+                </div>-->
 
             </div><!--/.row-->
         </div><!--/.container-->
