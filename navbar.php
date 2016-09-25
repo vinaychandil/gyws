@@ -8,12 +8,11 @@
                     <div class="col-sm-6 col-xs-8">
                        <div class="social">
                             <ul class="social-share">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li> 
-                                <li><a href="#"><i class="fa fa-phone-square"></i></a></li>
+                                <li><a href="www.facebook.com/gyws.iitkgp"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href=" https://twitter.com/GYWS_IITKgp"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/gopali-youth-welfare-society"><i class="fa fa-linkedin"></i></a></li> 
+                                <li><a href="https://plus.google.com/+GywsOrgKgp/"><i class="fa fa-google-plus"></i></a></li>
                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                               <!-- <li><a href="#"><i class="fa fa-wikipedia"></i></a></li>-->
                             </ul>
                             <div class="search">
                                 <form role="form">
@@ -45,7 +44,8 @@
                         <li class="dropdown">
                             <a href="about-us.php" class="dropdown-toggle" data-toggle="dropdown">About Us &nbsp;<i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
-                                <li><a href="#">Who we Are?</a></li>
+                                <li><a href="#">Founder's Message</a></li>
+                                <li><a href="about-us.php/#who">Who we Are?</a></li>
                                 <li><a href="#">Vision</a></li>
                                 <li><a href="#">Mission</a></li>
                                 <li><a href="#">Objectives</a></li>
