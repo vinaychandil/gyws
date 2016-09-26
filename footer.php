@@ -3,14 +3,13 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
-                        <h3>Company</h3>
+                        <h3>Organisation</h3>
                         <ul>
                             <li><a href="#">About us</a></li>
-                            <li><a href="#">We are hiring</a></li>
-                            <li><a href="#">Meet the team</a></li>
-                            <li><a href="#">Copyright</a></li>
-                            <li><a href="#">Terms of use</a></li>
-                            <li><a href="#">Privacy policy</a></li>
+                            <li><a href="#">Vision</a></li>
+                            <li><a href="#">Organisational profile</a></li>
+                            <li><a href="#">History</a></li>
+                            <li><a href="#">Founder's Message</a></li>
                             <li><a href="#">Contact us</a></li>
                         </ul>
                     </div>    
@@ -20,20 +19,19 @@
                     <div class="widget">
                         <h3>Support</h3>
                         <ul>
-                            <li><a href="#">Faq</a></li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">Forum</a></li>
+                            <li><a href="#">Educate a child</a></li>
+                            <li><a href="#">Earn a Smile</a></li>
+                            <li><a href="#">General Donations</a></li>
                             <li><a href="#">Documentation</a></li>
-                            <li><a href="#">Refund policy</a></li>
-                            <li><a href="#">Ticket system</a></li>
-                            <li><a href="#">Billing system</a></li>
+                            <li><a href="#">SI Form</a></li>
+                            <li><a href="#">Suggestions</a></li>                          
                         </ul>
                     </div>    
                 </div><!--/.col-md-3-->
 
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
-                        <h3>Developers</h3>
+                        <h3>Gallery</h3>
                         <ul>
                             <li><a href="#">Web Development</a></li>
                             <li><a href="#">SEO Marketing</a></li>
@@ -48,15 +46,14 @@
 
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
-                        <h3>Our Partners</h3>
+                        <h3>Initiatives</h3>
                         <ul>
-                            <li><a href="#">Adipisicing Elit</a></li>
-                            <li><a href="#">Eiusmod</a></li>
-                            <li><a href="#">Tempor</a></li>
-                            <li><a href="#">Veniam</a></li>
-                            <li><a href="#">Exercitation</a></li>
-                            <li><a href="#">Ullamco</a></li>
-                            <li><a href="#">Laboris</a></li>
+                                <li><a href="#">Jagriti Vidya Mandir</a></li>
+                                <li><a href="#">KGP BloodConnect</a></li>
+                                <li><a href="#">Social Cell</a></li>
+                                <li><a href="#">Pedals For Progress</a></li>
+                                <li><a href="#">e-Samadhan</a></li>
+                                <li><a hrf="#">Prayas</a></li><hr>
                         </ul>
                     </div>    
                 </div><!--/.col-md-3-->
